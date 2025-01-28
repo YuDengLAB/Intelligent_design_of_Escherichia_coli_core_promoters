@@ -41,4 +41,9 @@ Once the promoter sequences are generated, we use the **Transformer-based predic
 - `livelossplot>=0.5.3`
 - `numpy>=1.19.0`
 - `tensorflow==2.8.0`  
-- `scikit-learn>=0.24.0`  
+- `scikit-learn>=0.24.0`
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+  
